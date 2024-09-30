@@ -1,0 +1,174 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: beige;
+}
+header{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(55, 4, 4);
+    color: bisque;
+    justify-content: space-between;
+    display: flex;
+}
+header ul{
+    display: flex;
+    margin: 20px;
+    
+}
+header ul li{
+    margin: 10px 30px ;
+    list-style: none;
+    font-size: large;
+}
+header h1:hover{
+    color: blueviolet;
+}
+header ul li:hover{
+    color: blueviolet;
+}
+#banner{
+    background-image:  url(./coffee-3120750_1920.jpg);
+    width: 100%;
+    height: 680px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.row{
+    width: 100%;
+    height: 400px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   justify-content: space-evenly;
+   padding: 10px;
+   
+
+}
+.col{
+    width: 258px;
+    height: 280px;
+    background-color: #fff;
+    /* border: 4px solid white; */
+    margin-top: -75px;
+    border-radius: 10%;
+}#Hotbeverages{
+    text-align: center;
+    font-size: xx-large;
+    /* font-family: "SofiaPro-Regular"; */
+    font-weight: 400;
+    font-size: 28px;
+    
+}#dia{
+    text-align: center;
+    font-size: larger;
+    text-align: center;
+    margin: 5px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}.row2{
+    width: 100%;
+    height: 400px;
+    background-color: beige;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+   justify-content: space-evenly;
+
+}
+.col2{
+    width: 258px;
+    height: 280px;
+    background-color: #fff;
+    border-radius: 10%;
+}#cold{
+    text-align: center;
+    font-size: xx-large;
+    /* font-family: "SofiaPro-Regular"; */
+    font-weight: 400;
+    font-size: 28px;
+}#look{
+    text-align: center;
+    font-size: larger;
+    text-align: center;
+    margin: 5px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}.pic{
+    width: 220px;
+    height: 220px;
+    padding: 15px;
+    margin-left: 5px;
+    margin-top: -14px;
+}p{
+    font-family: "SofiaPro-Regular";
+    text-align: center;
+    font-size: 22px;
+    margin-top: -5px;
+
+}
+#parent{
+    width: 100%;
+    height: 892px;
+    background-color:  rgb(55, 4, 4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    width: 220px;
+    height: 600px;
+    background-color:rgb(55, 4, 4);
+    color: #fff;
+}.foot-head{
+    font-size: xx-large;
+    font-size: 1.125em;
+    /* text-align: center; */
+}
+.foot-text{
+    font-weight: 400;
+    font-size: .875em;
+    font-size: medium;
+    /* cursor: pointer; */
+   
+    list-style: none;
+    
+
+}.Social{
+     
+    justify-content: space-evenly;
+    margin-top: 20px;
+    display: flex;
+    color: #fff;
+    margin-left: -110px;
+}.hover:hover{
+    color: grey;
+
+}.social:hover{
+    color: grey;
+}#navbar{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    padding-top: 20px;
+    
+    
+    
+}.nav-ali{
+    font-size: 30px;
+    font-weight: 500;
+    color: brown;
+}
+    
+
+
+
